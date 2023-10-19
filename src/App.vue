@@ -22,7 +22,6 @@
 	data() {
 	  return {
 		todos: [],
-		name: '',
 		input_content: '',
 		input_category: null,
 	  };
