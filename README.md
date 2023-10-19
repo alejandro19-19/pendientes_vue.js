@@ -1,4 +1,4 @@
-# pendientes_vue.j
+# Pendientes_vue.js
 
 ***
 ## Integrantes: 
