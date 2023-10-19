@@ -1,6 +1,6 @@
 <template>
 	<main class="app">
-	  <Greeting :name="name" />
+	  <Greeting/>
   
 	  <CreateTodo :input_content="input_content" :input_category="input_category" @add-todo="addTodo" />
   
